@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI Chatbot",
+  "description": "An elegant, feature-rich chatbot powered by Gemini 3.5 Flash, featuring persona presets, message streaming, chat history, markdown rendering, and dark/light modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
